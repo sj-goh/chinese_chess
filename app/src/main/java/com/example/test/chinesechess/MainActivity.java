@@ -232,7 +232,7 @@ public class MainActivity extends AppCompatActivity {
 
                 charName = charDropDown.getItemAtPosition(position).toString();
 
-                // get resource by name. the enum shit can be remove!
+                // get resource by name
                 int charPicId = getResources().getIdentifier(charName, "drawable", getPackageName());
 
                 Drawable drawable = getResources().getDrawable(charPicId);

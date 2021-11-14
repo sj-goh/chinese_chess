@@ -305,7 +305,7 @@ public class Move {
         // create new instance so that the list stays as it is.
         MoveData moveData = new MoveData(moveDataInput);
         // this happens when undo is done until the board is in original state..
-        // clear list to avoid shit happens.
+        // clear list to avoid unwanted behaviour.
         if(moveIndex == -1){
             moveList.clear();
         }
