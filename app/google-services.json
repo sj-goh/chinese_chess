@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "766727140168",
+    "firebase_url": "https://cchess-6cd79.firebaseio.com",
+    "project_id": "cchess-6cd79",
+    "storage_bucket": "cchess-6cd79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766727140168:android:7234ee1d3f64fe15ef397d",
+        "android_client_info": {
+          "package_name": "com.example.test.chinesechess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766727140168-08kf7nvq2bpdteir3l786f52sglv3frp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNtXinpqSObX5zL6g2tXzL-ziIjktK3X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766727140168-08kf7nvq2bpdteir3l786f52sglv3frp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
