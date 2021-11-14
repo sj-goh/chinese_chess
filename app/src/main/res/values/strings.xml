@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">中国象棋</string>
+    <string name="btChange">Change</string>
+    <string-array name="char_array">
+        <item>garlic</item>
+        <item>smoke1</item>
+        <item>piece_red</item>
+        <item>piece_blue</item>
+        <item>king_red</item>
+    </string-array>
+</resources>
